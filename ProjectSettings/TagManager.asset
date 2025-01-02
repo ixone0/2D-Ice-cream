@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Microwave
+  - Customer
+  - System
+  - IceCream
+  - Flavour
+  - FlavourOb
+  - DrinkMachine
   layers:
   - Default
   - TransparentFX

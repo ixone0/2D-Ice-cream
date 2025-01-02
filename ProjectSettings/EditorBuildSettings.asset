@@ -6,10 +6,34 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/storage/Scenes/Menu.unity
+    guid: b129dda246abeef4a825d0419bfa4a4c
   - enabled: 1
-    path: Assets/Scenes/Scene1.unity
+    path: Assets/storage/Scenes/Stage.unity
+    guid: d1ee8ad5abca953418a877ab51054399
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene1.unity
     guid: c07f540befb06dc40826d35fc6d78644
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene2.unity
+    guid: 29e9129b6afa9564db3d95681d4bb12b
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene3.unity
+    guid: a37cfa7ace3543547b0f96ba9b3f2592
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene4.unity
+    guid: 91ed61e9ba3e9f344b1e4f80cef73815
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene5.unity
+    guid: 20aa012f9b534e64c903907775ad8ab6
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene6.unity
+    guid: 3172d42635b93be4bb57cc9b82b2cddd
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene7.unity
+    guid: e39489fda8f3c6c43ac7400f240bb1bd
+  - enabled: 1
+    path: Assets/storage/Scenes/Scene8.unity
+    guid: db7a460d153a3c546b1a8b4f0912b2e0
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
